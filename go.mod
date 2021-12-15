@@ -1,4 +1,4 @@
-module common
+module github.com/ZhiZhao-Hong/common
 
 go 1.14
 
